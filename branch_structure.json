@@ -1,0 +1,24 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/87-lyrics-controller-value-imports",
+    "fix/88-lyrics-body-decorator",
+    "fix/89-get-user-decorator-key",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/87-lyrics-controller-value-imports": "main",
+    "fix/88-lyrics-body-decorator": "main",
+    "fix/89-get-user-decorator-key": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/87-lyrics-controller-value-imports",
+    "fix/88-lyrics-body-decorator",
+    "fix/89-get-user-decorator-key",
+    "origin"
+  ]
+}
